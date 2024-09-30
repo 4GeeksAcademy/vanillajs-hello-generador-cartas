@@ -1,1 +1,33 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.nroTarjeta {
+  font-size: 400%;
+}
+
+.heart {
+  color: red;
+  font-size: 400%;
+  height: 50px;
+}
+
+.spade {
+  font-size: 400%;
+  height: 50px;
+}
+
+.club {
+  font-size: 400%;
+  height: 50px;
+}
+
+.diamond {
+  height: 50px;
+  color: red;
+  font-size: 400%;
+}
+
+.principal {
+  width: 250px;
+  height: 400px;
+  border-radius: 2.5%;
+}
